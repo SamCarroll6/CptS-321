@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{1705F233-37DE-46EF-8CB5-A2DA356CB91A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BSTtree/Main.cs">
+    <Files>
+      <File FileName="BSTtree/BinTree.cs" Line="9" Column="10" />
+      <File FileName="BSTtree/BST.cs" Line="4" Column="21" />
+      <File FileName="BSTtree/Main.cs" Line="1" Column="1" />
+      <File FileName="BSTtree/Node.cs" Line="12" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BSTPA1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

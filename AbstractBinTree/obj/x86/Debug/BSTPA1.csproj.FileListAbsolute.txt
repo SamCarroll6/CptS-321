@@ -1,0 +1,17 @@
+/Users/samcarroll/School/CS321/obj/x86/Debug/BSTPA1.csproj.CoreCompileInputs.cache
+/Users/samcarroll/School/CS321/bin/Debug/BSTPA1.exe
+/Users/samcarroll/School/CS321/bin/Debug/BSTPA1.pdb
+/Users/samcarroll/School/CS321/obj/x86/Debug/BSTPA1.exe
+/Users/samcarroll/School/CS321/obj/x86/Debug/BSTPA1.pdb
+C:\Users\Sam Carroll\Downloads\cs321-scarroll-AbstractTree (1)\cs321-scarroll-AbstractTree\obj\x86\Debug\BSTPA1.exe
+C:\Users\Sam Carroll\Downloads\cs321-scarroll-AbstractTree (1)\cs321-scarroll-AbstractTree\obj\x86\Debug\BSTPA1.pdb
+C:\Users\Sam Carroll\Downloads\cs321-scarroll-AbstractTree (1)\cs321-scarroll-AbstractTree\bin\Debug\BSTPA1.exe
+C:\Users\Sam Carroll\Downloads\cs321-scarroll-AbstractTree (1)\cs321-scarroll-AbstractTree\bin\Debug\BSTPA1.pdb
+C:\Users\Sam Carroll\Downloads\cs321-scarroll-AbstractTree (1)\cs321-scarroll-AbstractTree\obj\x86\Debug\BSTPA1.csprojResolveAssemblyReference.cache
+C:\Users\Sam Carroll\Desktop\CPTS_321\cs321-scarroll-AbstractTree\obj\x86\Debug\BSTPA1.exe
+C:\Users\Sam Carroll\Desktop\CPTS_321\cs321-scarroll-AbstractTree\obj\x86\Debug\BSTPA1.pdb
+C:\Users\Sam Carroll\Desktop\CPTS_321\AbstractTree\obj\x86\Debug\BSTPA1.exe
+C:\Users\Sam Carroll\Desktop\CPTS_321\AbstractTree\obj\x86\Debug\BSTPA1.pdb
+C:\Users\Sam Carroll\Desktop\CPTS_321\AbstractTree\bin\Debug\BSTPA1.exe
+C:\Users\Sam Carroll\Desktop\CPTS_321\AbstractTree\bin\Debug\BSTPA1.pdb
+C:\Users\Sam Carroll\Desktop\CPTS_321\AbstractTree\obj\x86\Debug\BSTPA1.csprojResolveAssemblyReference.cache

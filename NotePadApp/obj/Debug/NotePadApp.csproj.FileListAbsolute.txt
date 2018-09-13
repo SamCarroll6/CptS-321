@@ -1,0 +1,9 @@
+C:\Users\Sam Carroll\Desktop\CPTS_321\NotePadApp\bin\Debug\NotePadApp.exe.config
+C:\Users\Sam Carroll\Desktop\CPTS_321\NotePadApp\bin\Debug\NotePadApp.exe
+C:\Users\Sam Carroll\Desktop\CPTS_321\NotePadApp\bin\Debug\NotePadApp.pdb
+C:\Users\Sam Carroll\Desktop\CPTS_321\NotePadApp\obj\Debug\NotePadApp.csprojResolveAssemblyReference.cache
+C:\Users\Sam Carroll\Desktop\CPTS_321\NotePadApp\obj\Debug\NotePadApp.Form1.resources
+C:\Users\Sam Carroll\Desktop\CPTS_321\NotePadApp\obj\Debug\NotePadApp.Properties.Resources.resources
+C:\Users\Sam Carroll\Desktop\CPTS_321\NotePadApp\obj\Debug\NotePadApp.csproj.GenerateResource.Cache
+C:\Users\Sam Carroll\Desktop\CPTS_321\NotePadApp\obj\Debug\NotePadApp.exe
+C:\Users\Sam Carroll\Desktop\CPTS_321\NotePadApp\obj\Debug\NotePadApp.pdb

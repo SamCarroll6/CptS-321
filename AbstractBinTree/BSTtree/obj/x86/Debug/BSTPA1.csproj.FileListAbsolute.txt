@@ -1,0 +1,10 @@
+/Users/samcarroll/School/CS321/BSTPA1/BSTPA1/bin/Debug/BSTPA1.exe
+/Users/samcarroll/School/CS321/BSTPA1/BSTPA1/bin/Debug/BSTPA1.pdb
+/Users/samcarroll/School/CS321/BSTPA1/BSTPA1/obj/x86/Debug/BSTPA1.csproj.CoreCompileInputs.cache
+/Users/samcarroll/School/CS321/BSTPA1/BSTPA1/obj/x86/Debug/BSTPA1.exe
+/Users/samcarroll/School/CS321/BSTPA1/BSTPA1/obj/x86/Debug/BSTPA1.pdb
+/Users/samcarroll/School/CS321/BSTPA1/bin/Debug/BSTPA1.exe
+/Users/samcarroll/School/CS321/BSTPA1/bin/Debug/BSTPA1.pdb
+/Users/samcarroll/School/CS321/BSTPA1/obj/x86/Debug/BSTPA1.csproj.CoreCompileInputs.cache
+/Users/samcarroll/School/CS321/BSTPA1/obj/x86/Debug/BSTPA1.exe
+/Users/samcarroll/School/CS321/BSTPA1/obj/x86/Debug/BSTPA1.pdb

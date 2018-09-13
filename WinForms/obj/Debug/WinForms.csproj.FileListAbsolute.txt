@@ -1,0 +1,9 @@
+C:\Users\Sam Carroll\Desktop\CPTS_321\WinForms\bin\Debug\WinForms.exe.config
+C:\Users\Sam Carroll\Desktop\CPTS_321\WinForms\bin\Debug\WinForms.exe
+C:\Users\Sam Carroll\Desktop\CPTS_321\WinForms\bin\Debug\WinForms.pdb
+C:\Users\Sam Carroll\Desktop\CPTS_321\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+C:\Users\Sam Carroll\Desktop\CPTS_321\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+C:\Users\Sam Carroll\Desktop\CPTS_321\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+C:\Users\Sam Carroll\Desktop\CPTS_321\WinForms\obj\Debug\WinForms.exe
+C:\Users\Sam Carroll\Desktop\CPTS_321\WinForms\obj\Debug\WinForms.pdb
+C:\Users\Sam Carroll\Desktop\CPTS_321\WinForms\obj\Debug\WinForms.Form1.resources

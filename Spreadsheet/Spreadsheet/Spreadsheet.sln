@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spreadsheet", "Spreadsheet.csproj", "{B624D277-3D89-4BB2-9EB3-898AE3B4C89E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetEngine", "..\SpreadsheetEngine\SpreadsheetEngine.csproj", "{03CD9F99-9558-43E8-B428-FD6BFEE5F3CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B624D277-3D89-4BB2-9EB3-898AE3B4C89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B624D277-3D89-4BB2-9EB3-898AE3B4C89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B624D277-3D89-4BB2-9EB3-898AE3B4C89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B624D277-3D89-4BB2-9EB3-898AE3B4C89E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03CD9F99-9558-43E8-B428-FD6BFEE5F3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CD9F99-9558-43E8-B428-FD6BFEE5F3CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CD9F99-9558-43E8-B428-FD6BFEE5F3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CD9F99-9558-43E8-B428-FD6BFEE5F3CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
